@@ -1,0 +1,5 @@
+Lista salariatilor de profesie strungar, la data de 11/11/2023 3:12:23 PM
+
+Marca Nume si prenume Profesia Salariu
+4 Elena Dumitrescu Inginer 6000.00
+9 Andrei Tudor Inginer 6200.00
